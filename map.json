@@ -4335,7 +4335,7 @@
         {
          "columns":100,
          "firstgid":10001,
-         "image":"new\/moi-fg.png",
+         "image":"tilesets\/moi-fg.png",
          "imageheight":3200,
          "imagewidth":3200,
          "margin":0,
@@ -4371,7 +4371,7 @@
         {
          "columns":40,
          "firstgid":20013,
-         "image":"tilsets\/green-rugs.png",
+         "image":"tilesets\/green-rugs.png",
          "imageheight":2240,
          "imagewidth":1280,
          "margin":0,
