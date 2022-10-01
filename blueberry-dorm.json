@@ -78,7 +78,7 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":"door2_bliueberries"
+                 "value":"door2_blueberries"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -321,7 +321,7 @@
                         {
                          "name":"closeLayer",
                          "type":"string",
-                         "value":"door1_close_layer"
+                         "value":"door2_close_layer"
                         }, 
                         {
                          "name":"default",
@@ -336,7 +336,7 @@
                         {
                          "name":"openLayer",
                          "type":"string",
-                         "value":"door1_opened_layer"
+                         "value":"door2_opened_layer"
                         }],
                  "rotation":0,
                  "type":"variable",
