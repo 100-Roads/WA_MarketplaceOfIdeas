@@ -22,6 +22,22 @@
          "id":15,
          "name":"elevetor_open_zone1",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"autoClose",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"autoOpen",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"doorVariable",
+                 "type":"string",
+                 "value":"door1_bliueberries"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":43,
